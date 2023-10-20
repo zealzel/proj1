@@ -4,3 +4,7 @@
 void f1() {
     printf("ok\n");
 }
+
+void f11() {
+    printf("f11");
+}
