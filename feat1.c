@@ -7,4 +7,5 @@ void f1() {
 
 void f11() {
     printf("f11");
+    // xxx
 }
